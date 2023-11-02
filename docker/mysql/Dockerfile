@@ -1,0 +1,3 @@
+FROM mysql:latest
+ENV MYSQL_ROOT_PASSWORD = KZ4b9L29c0YrXd4n
+COPY . ./bdd
